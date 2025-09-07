@@ -87,17 +87,53 @@
   </tr>
 </table><br>
 
+# Project Report Collaboration Insights
 
+**TB1 Network Graph**
+<figure style="text-align: center;">
+    <img src="" alt="TB1 Network Graph">
+</figure>
 
+**TB1 Contributors**
+<figure style="text-align: center;">
+    <img src="" alt="TB1 Contributors">
+</figure>
 
+**TB1 Pulse**
+<figure style="text-align: center;">
+    <img src="" alt="TB1 Pulse">
+</figure>
 
+<h1>TB1</h1>
 
+<p>Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:</p>
 
-
-
-
-
-
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Integrante</td>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Tareas Asignadas</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Irving Allcca</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Diego Cacho</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Elaboré la carátula, el registro de versiones y el project report collaboration insights.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Mariano Oblitas</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Carlos Fernandez</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Elaboré el student outcome.</td>
+  </tr>
+</table>
 
 
 
