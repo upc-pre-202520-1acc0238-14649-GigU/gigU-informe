@@ -448,4 +448,55 @@
 </div>
 
 
+# Smart Objectives
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+        <tr>
+            <th style="text-align:center; border: 1px solid #ddd;">Students</th>
+            <th style="text-align:center; border: 1px solid #ddd;">Acciones / Notas</th>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; vertical-align: top;">Student</td>
+            <td style="border: 1px solid #ddd; vertical-align: top;">Irving Washington Allcca Guerrero</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; vertical-align: top;">Student</td>
+            <td style="border: 1px solid #ddd; vertical-align: top;">Diego Alonso Cacho Seminario</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; vertical-align: top;">Student</td>
+            <td style="border: 1px solid #ddd; vertical-align: top;">Adrian Ricardo Donayre Alvarez</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; vertical-align: top;">Student</td>
+            <td style="border: 1px solid #ddd; vertical-align: top;">Mariano Moises Oblitas Davila</td>
+        </tr>
+        <tr>
+        <td style="border: 1px solid #ddd; vertical-align: top;">Student</td>
+        <td style="border: 1px solid #ddd; vertical-align: top;">
+        Carlos Fredy Fernandez Camayo: <b>Primer objetivo:</b> quiero continuar mis estudios mediante un postgrado de Inteligencia Artificial, ya que es un área en la que logré empezar mediante un proyecto, por lo que espero que al egresar pueda tener la capacidad de desarrollar proyectos de mayor longitud. <br>
+        <b>Segundo objetivo:</b> Quiero emprender con una startup en el desarrollo de sotware, mediante proyectos relacionados a desarrollo web y mobile, por lo que tengo que desarollar adecuadamente los proyectos universitarios de manera colaborativa y responsable para el cumplimento de metas trazadas.
+        </td>
+        </tr>
+
+</table>
+</div>
+
+
+# 1.1. Startup Profile
+## 1.1.1. Descripción de la Startup
+## 1.1.2. Perfiles de integrantes del equipo
+
+# 1.2. Solution Profile
+## 1.2.1 Antecedentes y problemática
+## 1.2.2 Lean UX Process
+### 1.2.2.1. Lean UX Problem Statements
+### 1.2.2.2. Lean UX Assumptions
+### 1.2.2.3. Lean UX Hypothesis Statements
+### 1.2.2.4. Lean UX Canvas
+
+# 1.3. Segmentos objetivo
+## Segmentación del Dominio del Problema
+
 
