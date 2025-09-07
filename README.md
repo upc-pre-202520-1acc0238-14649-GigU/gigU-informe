@@ -55,7 +55,6 @@
 
 <!--Registro de versiones-->
 <h1 align="left">Registro de versiones del Informe</h1>
-</br>
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="border: 1px solid #ddd; padding: 8px;">Versión</td>
@@ -550,7 +549,6 @@
             </td>
         </tr>
     </table>
-<<<<<<< HEAD
 </div>
 
 
