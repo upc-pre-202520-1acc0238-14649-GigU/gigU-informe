@@ -16,19 +16,124 @@
     <strong>Producto: </strong>GigU
 </p>
 
+<!--Aplicaciones para Dispositivos Móviles-->
+<h1 align="center">APLICACIONES PARA DISPOSITIVOS MÓVILES</h1>
 
+<!--Nombres de integrantes-->
+<div style="text-align:center;">
+    <h3><p align="center">Integrantes del equipo:</p></h3>
+    <table align="center" border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
+        <tr>
+            <th style="text-align:center; border: 1px solid #ddd;">Nombres y Apellidos</th>
+            <th style="text-align:center; border: 1px solid #ddd;">Código</th>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Irving Washington Allcca Guerrero</td>
+            <td style="border: 1px solid #ddd;">U202213241</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Diego Alonso Cacho Seminario</td>
+            <td style="border: 1px solid #ddd;">U202223990</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Adrian Ricardo Donayre Alvarez</td>
+            <td style="border: 1px solid #ddd;">U202310187</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Mariano Moises Oblitas Davila</td>
+            <td style="border: 1px solid #ddd;">U202310222</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Carlos Fredy Fernandez Camayo</td>
+            <td style="border: 1px solid #ddd;">U202320083</td>
+        </tr>
+    </table>
+</div>
 
+<!--FECHA QUE SE MODIFICA-->
+<div align="center" style="font-weight: bold;">18 DE SETIEMBRE DE 2025</div><br>
 
+<!--Registro de versiones-->
+<h1 align="left">Registro de versiones del Informe</h1>
+</br>
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Versión</td>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Fecha</td>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Autores</td>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Descripción</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">TB1</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">18/09/2025</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <ul>
+        <li>Irving Allcca</li>
+        <li>Diego Cacho</li>
+        <li>Adrian Donayre</li>
+        <li>Mariano Oblitas</li>
+        <li>Carlos Fernandez</li>
+      </ul>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">            
+      <ul>
+        <li>Capítulo I: Presentación</li>
+        <li>Capítulo II: Requirements Elicitation & Analysis</li>
+        <li>Capítulo III: Requirements Specification</li>
+        <li>Capítulo IV: Solution Software Design</li>
+        <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+      </ul>
+    </td>
+  </tr>
+</table><br>
 
+# Project Report Collaboration Insights
 
+**TB1 Network Graph**
+<figure style="text-align: center;">
+    <img src="" alt="TB1 Network Graph">
+</figure>
 
+**TB1 Contributors**
+<figure style="text-align: center;">
+    <img src="" alt="TB1 Contributors">
+</figure>
 
+**TB1 Pulse**
+<figure style="text-align: center;">
+    <img src="" alt="TB1 Pulse">
+</figure>
 
+<h1>TB1</h1>
 
+<p>Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:</p>
 
-
-
-
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Integrante</td>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">Tareas Asignadas</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Irving Allcca</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Diego Cacho</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Adrian Donayre</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Elaboré la carátula, el registro de versiones y el project report collaboration insights.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Mariano Oblitas</td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">Carlos Fernandez</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Elaboré el student outcome.</td>
+  </tr>
+</table>
 
 
 
@@ -445,6 +550,7 @@
             </td>
         </tr>
     </table>
+<<<<<<< HEAD
 </div>
 
 
@@ -498,5 +604,6 @@
 
 # 1.3. Segmentos objetivo
 ## Segmentación del Dominio del Problema
+
 
 
